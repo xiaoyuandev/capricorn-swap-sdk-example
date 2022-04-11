@@ -10,4 +10,6 @@
 yarn install
 ```
 
-2. config privateKey and constant
+2. config `.env`
+3. yarn build
+
